@@ -34,3 +34,7 @@ make
 ```
 
 After encryption only `.enc` + `.key` remain (plaintext is securely wiped).
+=======
+# chacha20-rsa-hybrid-engine
+Hybrid cryptography engine using ChaCha20 and RSA
+>>>>>>> a1fcd339408bb3801399b96638d2dafb7d725454
